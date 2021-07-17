@@ -1,2 +1,2 @@
-# resume-builder
-a web application using node js
+## resume-builder
+A web application using node js
